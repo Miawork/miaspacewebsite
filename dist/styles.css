@@ -534,7 +534,7 @@ h1 {
   transform: rotate(-8deg);
 }
 
-.tech-ribbon {
+.interest-ribbon {
   display: flex;
   width: calc(100% + 20px);
   min-height: 66px;
@@ -555,7 +555,7 @@ h1 {
   transform: rotate(-0.7deg);
 }
 
-.tech-ribbon i {
+.interest-ribbon i {
   color: var(--pink);
   font-style: normal;
 }
@@ -1247,7 +1247,7 @@ h1 {
     left: -10px;
   }
 
-  .tech-ribbon {
+  .interest-ribbon {
     justify-content: flex-start;
   }
 
