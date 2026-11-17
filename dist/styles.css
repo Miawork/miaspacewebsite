@@ -735,6 +735,10 @@ h1 {
   background: var(--ink);
 }
 
+.impact-grid-two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .impact-grid > div {
   padding: 22px;
   background: var(--paper);
